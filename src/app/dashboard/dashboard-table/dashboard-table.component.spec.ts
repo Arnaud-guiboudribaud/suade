@@ -4,6 +4,7 @@ import { DashboardTableComponent } from './dashboard-table.component';
 import { DashboardFilterComponent } from '../dashboard-filter/dashboard-filter.component';
 import { RouterTestingModule } from '@angular/router/testing';
 import { HttpClientTestingModule } from '@angular/common/http/testing';
+import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 
 describe('DashboardTableComponent', () => {
   let component: DashboardTableComponent;
@@ -42,6 +43,7 @@ describe('DashboardTableComponent', () => {
     TestBed.configureTestingModule({
       imports: [MatIconModule, RouterTestingModule, HttpClientTestingModule],
       declarations: [DashboardTableComponent, DashboardFilterComponent],
+      schemas: [CUSTOM_ELEMENTS_SCHEMA],
     }).compileComponents();
   }));
 

@@ -26,6 +26,7 @@ export class DashboardComponent implements OnInit {
       this.datas = ret;
     });
     this.dashboardService.callMap$.subscribe((call) => {
+      console.log(call);
       this.showMap = !!call;
       this.mapData = call;
     });

@@ -1,4 +1,4 @@
-import { NO_ERRORS_SCHEMA } from '@angular/core';
+import { NO_ERRORS_SCHEMA, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import { MatIconModule } from '@angular/material/icon';
 import { DashboardGraphComponent } from './dashboard-graph.component';
@@ -13,7 +13,7 @@ describe('DashboardGraphComponent', () => {
     TestBed.configureTestingModule({
       imports: [MatIconModule, HttpClientTestingModule, ChartModule],
       declarations: [DashboardGraphComponent],
-      schemas: [NO_ERRORS_SCHEMA],
+      schemas: [NO_ERRORS_SCHEMA, CUSTOM_ELEMENTS_SCHEMA],
     }).compileComponents();
   }));
 

@@ -1,5 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
-import { NgModule, NO_ERRORS_SCHEMA } from '@angular/core';
+import { NgModule, NO_ERRORS_SCHEMA, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 
@@ -13,7 +13,6 @@ import { DashboardGraphComponent } from './dashboard/dashboard-graph/dashboard-g
 import { DashboardMapComponent } from './dashboard/dashboard-map/dashboard-map.component';
 import { ChartModule, HIGHCHARTS_MODULES } from 'angular-highcharts';
 import * as more from 'highcharts/highcharts-more.src';
-import * as exporting from 'highcharts/modules/exporting.src';
 import * as highmaps from 'highcharts/modules/map.src';
 import { DashboardEditComponent } from './dashboard/dashboard-edit/dashboard-edit.component';
 import { DashboardFilterComponent } from './dashboard/dashboard-filter/dashboard-filter.component';
@@ -38,7 +37,7 @@ import { DashboardFilterComponent } from './dashboard/dashboard-filter/dashboard
     AppRoutingModule,
     ChartModule,
   ],
-  schemas: [NO_ERRORS_SCHEMA],
+  schemas: [NO_ERRORS_SCHEMA, CUSTOM_ELEMENTS_SCHEMA],
   providers: [{ provide: HIGHCHARTS_MODULES, useFactory: () => [highmaps, more] }],
   bootstrap: [AppComponent],
 })

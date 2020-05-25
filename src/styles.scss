@@ -52,7 +52,21 @@ body {
   margin: 0;
   font-family: Roboto, 'Helvetica Neue', sans-serif;
 }
+button.close {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: $red;
+  width: 42px;
+  height: 42px;
+  margin: 0 5px 5px;
+  border-radius: 0 0 50% 50%;
+  border: none;
 
+  .mat-icon {
+    color: white;
+  }
+}
 .chart {
   .highcharts-data-label text {
     // transform: scale(1.2);

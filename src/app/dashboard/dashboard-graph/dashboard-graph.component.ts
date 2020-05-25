@@ -100,7 +100,7 @@ export class DashboardGraphComponent implements OnInit, OnChanges {
       };
     });
   }
-  setPieChart(datas) {
+  setPieChart(datas: SortedData[]) {
     return new Chart({
       chart: {
         styledMode: true,
@@ -198,6 +198,7 @@ export class DashboardGraphComponent implements OnInit, OnChanges {
     this.showSelect = !this.showSelect;
   }
   showMap() {
-    this.dashboardService.callMap$.next(this.data[this.filter[0]]);
+    console.log('show map');
+    this.dashboardService.callMap$.next(this.data[this.filterArray[0]]);
   }
 }

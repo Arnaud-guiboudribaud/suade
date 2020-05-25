@@ -3,6 +3,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { DashboardMapComponent } from './dashboard-map.component';
 import { ChartModule } from 'angular-highcharts';
 import { HttpClientTestingModule } from '@angular/common/http/testing';
+import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 
 describe('DashboardMapComponent', () => {
   let component: DashboardMapComponent;
@@ -29,6 +30,7 @@ describe('DashboardMapComponent', () => {
     TestBed.configureTestingModule({
       imports: [MatIconModule, HttpClientTestingModule, ChartModule],
       declarations: [DashboardMapComponent],
+      schemas: [CUSTOM_ELEMENTS_SCHEMA],
     }).compileComponents();
   }));
 
