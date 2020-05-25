@@ -1,0 +1,56 @@
+<ng-container *ngIf="data">
+  <button class="close">
+    <mat-icon svgIcon="close" (click)="hideUser()"></mat-icon>
+  </button>
+
+  <form [formGroup]="userForm" (ngSubmit)="changeUserData()">
+    <div class="form">
+      <span class="label">Name</span>
+      <input type="text" formControlName="name" /><span class="label">Age</span>
+      <div class="user-data age">
+        <input type="number" formControlName="age" />
+      </div>
+      <span class="label">Gender</span>
+      <div class="user-data gender">
+        <input type="hidden" formControlName="gender" />
+        <app-dashboard-filter
+          [filterList]="filterList.gender"
+          [filter]="this.data.gender"
+          (filtering)="setGender($event)"
+        >
+        </app-dashboard-filter>
+      </div>
+      <span class="label">Eye's color</span>
+      <div class="user-data eye">
+        <input type="hidden" formControlName="eye" />
+        <app-dashboard-filter
+          [filterList]="filterList.eyeColor"
+          [filter]="this.data.eyeColor"
+          (filtering)="setEye($event)"
+        >
+        </app-dashboard-filter>
+      </div>
+      <span class="label">Pet prefered</span>
+      <div class="user-data pet">
+        <input type="hidden" formControlName="pet" />
+        <app-dashboard-filter
+          [filterList]="filterList.pet"
+          [filter]="this.data.preferences.pet"
+          (filtering)="setPet($event)"
+        >
+        </app-dashboard-filter>
+      </div>
+      <span class="label">Fruit prefered</span>
+      <div class="user-data fruit">
+        <input type="hidden" formControlName="fruit" />
+        <app-dashboard-filter
+          [filterList]="filterList.fruit"
+          [filter]="this.data.preferences.fruit"
+          (filtering)="setFruit($event)"
+        >
+        </app-dashboard-filter>
+      </div>
+    </div>
+    <button type="submit">Save Changes</button>
+  </form>
+</ng-container>

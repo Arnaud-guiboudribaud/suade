@@ -1,0 +1,116 @@
+@import 'variables.scss';
+.select {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: #efefef;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  font-size: 0.7em;
+  text-transform: uppercase;
+
+  &-set,
+  a {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 1.2em;
+
+    &.hide {
+      display: none;
+    }
+  }
+
+  &-set {
+    height: 100%;
+    font-size: 1.2em;
+    flex: 0 0 100%;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    &.mango {
+      background: $mango;
+      color: white;
+    }
+    &.strawberry {
+      background: $strawberry;
+      color: white;
+    }
+    &.apple {
+      background: $apple;
+      color: white;
+    }
+    &.banana {
+      background: $banana;
+      color: black;
+    }
+    &.bird {
+      background: $bird;
+      color: white;
+    }
+    &.cat {
+      background: $cat;
+      color: white;
+    }
+    &.dog {
+      background: $dog;
+      color: white;
+    }
+    &.none {
+      background: $none;
+      color: white;
+    }
+    &.brown {
+      background: $brown;
+      color: white;
+    }
+    &.blue {
+      background: $blue;
+      color: white;
+    }
+    &.green {
+      background: $green;
+      color: white;
+    }
+  }
+
+  &-list {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    background: white;
+    opacity: 0;
+    border-radius: 0 0 10px 10px;
+    border: 4px solid #efefef;
+    border-top: none;
+    flex: 0 0 0;
+    transition: flex 0.3s ease;
+    pointer-events: none;
+
+    a {
+      height: 40px;
+      &:first-child {
+        border-radius: 8px 8px 0 0;
+      }
+    }
+  }
+
+  &.show {
+    border-radius: 10px 10px 0 0;
+    .select {
+      &-list {
+        pointer-events: initial;
+        opacity: 1;
+        flex: 1 1 auto;
+        z-index: 10;
+      }
+    }
+  }
+}

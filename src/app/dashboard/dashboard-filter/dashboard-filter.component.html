@@ -1,0 +1,8 @@
+<div class="select" [class.show]="showSelection" (click)="showHideSelect()">
+  <div [ngClass]="['select-set', filter]">
+    {{ filter }}
+  </div>
+  <div class="select-list">
+    <a (click)="setFilter(f)" [class.hide]="filter === f" *ngFor="let f of filterList">{{ f }}</a>
+  </div>
+</div>

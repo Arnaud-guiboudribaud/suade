@@ -1,16 +1,14 @@
 import { TestBed, async } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
+import { HttpClientTestingModule } from '@angular/common/http/testing';
 import { AppComponent } from './app.component';
+import { MatIconModule } from '@angular/material/icon';
 
 describe('AppComponent', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      imports: [
-        RouterTestingModule
-      ],
-      declarations: [
-        AppComponent
-      ],
+      imports: [MatIconModule, RouterTestingModule, HttpClientTestingModule],
+      declarations: [AppComponent],
     }).compileComponents();
   }));
 
@@ -26,10 +24,10 @@ describe('AppComponent', () => {
     expect(app.title).toEqual('suade');
   });
 
-  it('should render title', () => {
+  it('should have router outlet', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('suade app is running!');
+    expect(compiled.querySelector('router-outlet').textContent).toBeDefined();
   });
 });

@@ -1,0 +1,75 @@
+@import 'variables.scss';
+
+:host {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 0;
+  background: white;
+  transition: flex 0.3s ease;
+  box-shadow: 0 0 250px fade_out(darken($blue, 20%), 0.5), 0 0 10px darken($blue, 20%);
+  &.show {
+    flex: 0 0 350px;
+  }
+}
+
+mat-icon {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+form {
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  background: white;
+  display: flex;
+  flex-direction: column;
+
+  .form {
+    justify-self: center;
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  input {
+    width: 100%;
+    font-size: 1.2em;
+    padding: 0 10px;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: none;
+    background: #efefef;
+    margin: 10px 0;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .user-data {
+    margin: 10px 0;
+    height: 50px;
+  }
+
+  button {
+    width: 100%;
+    height: 50px;
+    background: $red;
+    color: white;
+    border: none;
+    justify-self: flex-end;
+  }
+}

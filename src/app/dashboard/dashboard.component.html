@@ -1,0 +1,35 @@
+<ng-container *ngIf="datas">
+  <header></header>
+  <section class="content chart" [class.blur]="showMap">
+    <div class="chart-holder">
+      <app-dashboard-graph
+        [data]="datas"
+        [filter]="filters[0]"
+        (emitSetFilter)="setFilter($event, 0)"
+      ></app-dashboard-graph>
+    </div>
+    <button class="mixing-data" (click)="mergeChartsData()">
+      <ng-container *ngIf="!mergeGraph">Merge both charts</ng-container>
+      <ng-container *ngIf="mergeGraph">Show back table's data</ng-container>
+    </button>
+    <div class="chart-holder">
+      <app-dashboard-graph
+        [data]="datas"
+        [filter]="filters[1]"
+        (emitSetFilter)="setFilter($event, 1)"
+      ></app-dashboard-graph>
+    </div>
+  </section>
+  <section class="content table" [class.blur]="showMap">
+    <app-dashboard-table [data]="datas" [class.show]="!mergeGraph"></app-dashboard-table>
+    <app-dashboard-graph
+      [data]="datas"
+      [filter]="filters.join('-')"
+      [class.show]="mergeGraph"
+      (emitSetFilter)="setFilter($event, null)"
+      *ngIf="mergeGraph"
+    ></app-dashboard-graph>
+  </section>
+  <app-dashboard-edit [class.show]="editUser" [data]="userData"></app-dashboard-edit>
+  <app-dashboard-map *ngIf="showMap" [data]="mapData"></app-dashboard-map>
+</ng-container>

@@ -1,0 +1,2929 @@
+[{
+  "country": "Afghanistan",
+  "city": "Kabul",
+  "population": 35530081,
+  "density": 46.8,
+  "continent": "Asia",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  },
+  "area": 652090,
+  "expectancy": 45.9
+}, {
+  "country": "Albania",
+  "city": "Tirana",
+  "population": 2930187,
+  "density": 101.23,
+  "continent": "Europe",
+  "currency": {
+    "code": "ALL",
+    "name": "Albanian Lek"
+  },
+  "area": 28748,
+  "expectancy": 71.6
+}, {
+  "country": "Algeria",
+  "city": "Alger",
+  "population": 41318142,
+  "density": 16.46,
+  "continent": "Africa",
+  "currency": {
+    "code": "DZD",
+    "name": "Algerian Dinar"
+  },
+  "area": 2381741,
+  "expectancy": 69.7
+}, {
+  "country": "American Samoa",
+  "city": "Fagatogo",
+  "population": 55641,
+  "density": 275.83,
+  "continent": "Oceania",
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar"
+  },
+  "area": 199,
+  "expectancy": 75.1
+}, {
+  "country": "Andorra",
+  "city": "Andorra la Vella",
+  "population": 76965,
+  "density": 168.55,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 468,
+  "expectancy": 83.5
+}, {
+  "country": "Angola",
+  "city": "Luanda",
+  "population": 29784193,
+  "density": 17.22,
+  "continent": "Africa",
+  "currency": {
+    "code": "AOA",
+    "name": "Angolan Kwanza"
+  },
+  "area": 1246700,
+  "expectancy": 38.3
+}, {
+  "country": "Anguilla",
+  "city": "The Valley",
+  "population": 14909,
+  "density": 0,
+  "continent": "North America",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  },
+  "area": 96,
+  "expectancy": 76.1
+}, {
+  "country": "Antarctica",
+  "city": null,
+  "population": 0,
+  "density": 0,
+  "continent": "Antarctica",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  },
+  "area": 13120000,
+  "expectancy": 0
+}, {
+  "country": "Antigua and Barbuda",
+  "city": "Saint John's",
+  "population": 102012,
+  "density": 204.51,
+  "continent": "North America",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  },
+  "area": 442,
+  "expectancy": 70.5
+}, {
+  "country": "Argentina",
+  "city": "Buenos Aires",
+  "population": 44271041,
+  "density": 15.14,
+  "continent": "South America",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentine Peso"
+  },
+  "area": 2780400,
+  "expectancy": 75.1
+}, {
+  "country": "Armenia",
+  "city": "Yerevan",
+  "population": 2930450,
+  "density": 104.55,
+  "continent": "Asia",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenian Dram"
+  },
+  "area": 29800,
+  "expectancy": 66.4
+}, {
+  "country": "Aruba",
+  "city": "Oranjestad",
+  "population": 105264,
+  "density": 571.73,
+  "continent": "North America",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruban Guilder"
+  },
+  "area": 193,
+  "expectancy": 78.4
+}, {
+  "country": "Australia",
+  "city": "Canberra",
+  "population": 24450561,
+  "density": 3.01,
+  "continent": "Oceania",
+  "currency": {
+    "code": "AUD",
+    "name": "Australian Dollar"
+  },
+  "area": 7741220,
+  "expectancy": 79.8
+}, {
+  "country": "Austria",
+  "city": "Wien",
+  "population": 8735453,
+  "density": 102.83,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 83859,
+  "expectancy": 77.7
+}, {
+  "country": "Azerbaijan",
+  "city": "Baku",
+  "population": 9827589,
+  "density": 113.92,
+  "continent": "Asia",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  },
+  "area": 86600,
+  "expectancy": 62.9
+}, {
+  "country": "Bahamas",
+  "city": "Nassau",
+  "population": 395361,
+  "density": 0,
+  "continent": "North America",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamian Dollar"
+  },
+  "area": 13878,
+  "expectancy": 71.1
+}, {
+  "country": "Bahrain",
+  "city": "al-Manama",
+  "population": 1492584,
+  "density": 1,
+  "continent": "Asia",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahraini Dinar"
+  },
+  "area": 694,
+  "expectancy": 73
+}, {
+  "country": "Bangladesh",
+  "city": "Dhaka",
+  "population": 164669751,
+  "density": 1,
+  "continent": "Asia",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladeshi Taka"
+  },
+  "area": 143998,
+  "expectancy": 60.2
+}, {
+  "country": "Barbados",
+  "city": "Bridgetown",
+  "population": 285719,
+  "density": 661.96,
+  "continent": "North America",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  },
+  "area": 430,
+  "expectancy": 73
+}, {
+  "country": "Belarus",
+  "city": "Minsk",
+  "population": 9468338,
+  "density": 46.65,
+  "continent": "Europe",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarussian Ruble"
+  },
+  "area": 207600,
+  "expectancy": 68
+}, {
+  "country": "Belgium",
+  "city": "Bruxelles [Brussel]",
+  "population": 11429336,
+  "density": 369.72,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 30518,
+  "expectancy": 77.8
+}, {
+  "country": "Belize",
+  "city": "Belmopan",
+  "population": 374681,
+  "density": 14.55,
+  "continent": "North America",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  },
+  "area": 22696,
+  "expectancy": 70.9
+}, {
+  "country": "Benin",
+  "city": "Porto-Novo",
+  "population": 11175692,
+  "density": 91.55,
+  "continent": "Africa",
+  "currency": {
+    "code": "XOF",
+    "name": "CFA Franc BCEAO"
+  },
+  "area": 112622,
+  "expectancy": 50.2
+}, {
+  "country": "Bermuda",
+  "city": "Hamilton",
+  "population": 61349,
+  "density": 1,
+  "continent": "North America",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermudian Dollar"
+  },
+  "area": 53,
+  "expectancy": 76.9
+}, {
+  "country": "Bhutan",
+  "city": "Thimphu",
+  "population": 807610,
+  "density": 19.78,
+  "continent": "Asia",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  },
+  "area": 47000,
+  "expectancy": 52.4
+}, {
+  "country": "Bolivia",
+  "city": "La Paz",
+  "population": 11051600,
+  "density": 9.85,
+  "continent": "South America",
+  "currency": {
+    "code": "BOB",
+    "name": "Boliviano"
+  },
+  "area": 1098581,
+  "expectancy": 63.7
+}, {
+  "country": "Bosnia and Herzegovina",
+  "city": "Sarajevo",
+  "population": 3507017,
+  "density": 75.08,
+  "continent": "Europe",
+  "currency": {
+    "code": "BAM",
+    "name": null
+  },
+  "area": 51197,
+  "expectancy": 71.5
+}, {
+  "country": "Botswana",
+  "city": "Gaborone",
+  "population": 2291661,
+  "density": 3.57,
+  "continent": "Africa",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  },
+  "area": 581730,
+  "expectancy": 39.3
+}, {
+  "country": "Bouvet Island",
+  "city": null,
+  "population": 0,
+  "density": 0,
+  "continent": "Antarctica",
+  "currency": {
+    "code": "NOK",
+    "name": "Norwegian Krone"
+  },
+  "area": 59,
+  "expectancy": 0
+}, {
+  "country": "Brazil",
+  "city": "Brasília",
+  "population": 209288278,
+  "density": 23.97,
+  "continent": "South America",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazilian Real"
+  },
+  "area": 8547403,
+  "expectancy": 62.9
+}, {
+  "country": "British Indian Ocean Territory",
+  "city": null,
+  "population": 0,
+  "density": 0,
+  "continent": "Africa",
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar"
+  },
+  "area": 78,
+  "expectancy": 0
+}, {
+  "country": "Brunei",
+  "city": "Bandar Seri Begawan",
+  "population": 428697,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": "BND",
+    "name": null
+  },
+  "area": 5765,
+  "expectancy": 73.6
+}, {
+  "country": "Bulgaria",
+  "city": "Sofia",
+  "population": 7084571,
+  "density": 66.92,
+  "continent": "Europe",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgarian Lev"
+  },
+  "area": 110994,
+  "expectancy": 70.9
+}, {
+  "country": "Burkina Faso",
+  "city": "Ouagadougou",
+  "population": 19193382,
+  "density": 61.9,
+  "continent": "Africa",
+  "currency": {
+    "code": "XOF",
+    "name": "CFA Franc BCEAO"
+  },
+  "area": 274000,
+  "expectancy": 46.7
+}, {
+  "country": "Burundi",
+  "city": "Bujumbura",
+  "population": 10864245,
+  "density": 395.74,
+  "continent": "Africa",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  },
+  "area": 27834,
+  "expectancy": 46.2
+}, {
+  "country": "Cambodia",
+  "city": "Phnom Penh",
+  "population": 16005373,
+  "density": 85.74,
+  "continent": "Asia",
+  "currency": {
+    "code": "KHR",
+    "name": "Kampuchean Riel"
+  },
+  "area": 181035,
+  "expectancy": 56.5
+}, {
+  "country": "Cameroon",
+  "city": "Yaound",
+  "population": 24053727,
+  "density": 47.08,
+  "continent": "Africa",
+  "currency": {
+    "code": "XAF",
+    "name": "CFA Franc BEAC"
+  },
+  "area": 475442,
+  "expectancy": 54.8
+}, {
+  "country": "Canada",
+  "city": "Ottawa",
+  "population": 36624199,
+  "density": 3.87,
+  "continent": "North America",
+  "currency": {
+    "code": "CAD",
+    "name": "Canadian Dollar"
+  },
+  "area": 9970610,
+  "expectancy": 79.4
+}, {
+  "country": "Cape Verde",
+  "city": "Praia",
+  "population": 546388,
+  "density": 0,
+  "continent": "Africa",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  },
+  "area": 4033,
+  "expectancy": 68.9
+}, {
+  "country": "Cayman Islands",
+  "city": "George Town",
+  "population": 61559,
+  "density": 243.48,
+  "continent": "North America",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  },
+  "area": 264,
+  "expectancy": 78.9
+}, {
+  "country": "Central African Republic",
+  "city": "Bangui",
+  "population": 4659080,
+  "density": 7.41,
+  "continent": "Africa",
+  "currency": {
+    "code": "XAF",
+    "name": "CFA Franc BEAC"
+  },
+  "area": 622984,
+  "expectancy": 44
+}, {
+  "country": "Chad",
+  "city": "N'Djam",
+  "population": 14899994,
+  "density": 10.19,
+  "continent": "Africa",
+  "currency": {
+    "code": "XAF",
+    "name": null
+  },
+  "area": 1284000,
+  "expectancy": 50.5
+}, {
+  "country": "Chile",
+  "city": "Santiago de Chile",
+  "population": 18054726,
+  "density": 23.7,
+  "continent": "South America",
+  "currency": {
+    "code": "CLP",
+    "name": "Chilean Peso"
+  },
+  "area": 756626,
+  "expectancy": 75.7
+}, {
+  "country": "China",
+  "city": "Peking",
+  "population": 1409517397,
+  "density": 144.58,
+  "continent": "Asia",
+  "currency": {
+    "code": "CNY",
+    "name": "Yuan Renminbi"
+  },
+  "area": 9572900,
+  "expectancy": 71.4
+}, {
+  "country": "Christmas Island",
+  "city": "Flying Fish Cove",
+  "population": 2500,
+  "density": 0,
+  "continent": "Oceania",
+  "currency": {
+    "code": "AUD",
+    "name": "Australian Dollar"
+  },
+  "area": 135,
+  "expectancy": 0
+}, {
+  "country": "Cocos (Keeling) Islands",
+  "city": "West Island",
+  "population": 600,
+  "density": 0,
+  "continent": "Oceania",
+  "currency": {
+    "code": "AUD",
+    "name": " Australian Dollar"
+  },
+  "area": 14,
+  "expectancy": 0
+}, {
+  "country": "Colombia",
+  "city": "Santaf",
+  "population": 49065615,
+  "density": 43.55,
+  "continent": "South America",
+  "currency": {
+    "code": "COP",
+    "name": "Colombian Peso"
+  },
+  "area": 1138914,
+  "expectancy": 70.3
+}, {
+  "country": "Comoros",
+  "city": "Moroni",
+  "population": 813912,
+  "density": 394.9,
+  "continent": "Africa",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  },
+  "area": 1862,
+  "expectancy": 60
+}, {
+  "country": "Congo",
+  "city": "Brazzaville",
+  "population": 5260750,
+  "density": 0,
+  "continent": "Africa",
+  "currency": {
+    "code": "XAF",
+    "name": "CFA Franc BEAC"
+  },
+  "area": 342000,
+  "expectancy": 47.4
+}, {
+  "country": "Cook Islands",
+  "city": "Avarua",
+  "population": 17380,
+  "density": 0,
+  "continent": "Oceania",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  },
+  "area": 236,
+  "expectancy": 71.1
+}, {
+  "country": "Costa Rica",
+  "city": "San Jos",
+  "population": 4905769,
+  "density": 95.42,
+  "continent": "North America",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rican Colon"
+  },
+  "area": 51100,
+  "expectancy": 75.8
+}, {
+  "country": "Croatia",
+  "city": "Zagreb",
+  "population": 4189353,
+  "density": 76,
+  "continent": "Europe",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatian Kuna"
+  },
+  "area": 56538,
+  "expectancy": 73.7
+}, {
+  "country": "Cuba",
+  "city": "La Habana",
+  "population": 11484636,
+  "density": 105.84,
+  "continent": "North America",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuban Peso"
+  },
+  "area": 110861,
+  "expectancy": 76.2
+}, {
+  "country": "Cyprus",
+  "city": "Nicosia",
+  "population": 1179551,
+  "density": 123.5,
+  "continent": "Asia",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 9251,
+  "expectancy": 76.7
+}, {
+  "country": "Czech Republic",
+  "city": "Praha",
+  "population": 10618303,
+  "density": 136.24,
+  "continent": "Europe",
+  "currency": {
+    "code": "CZK",
+    "name": null
+  },
+  "area": 78866,
+  "expectancy": 74.5
+}, {
+  "country": "Denmark",
+  "city": "Copenhagen",
+  "population": 5733551,
+  "density": 132.31,
+  "continent": "Europe",
+  "currency": {
+    "code": "DKK",
+    "name": "Danish Krone"
+  },
+  "area": 43094,
+  "expectancy": 76.5
+}, {
+  "country": "Djibouti",
+  "city": "Djibouti",
+  "population": 956985,
+  "density": 37.66,
+  "continent": "Africa",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  },
+  "area": 23200,
+  "expectancy": 50.8
+}, {
+  "country": "Dominica",
+  "city": "Roseau",
+  "population": 73925,
+  "density": 96,
+  "continent": "North America",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  },
+  "area": 751,
+  "expectancy": 73.4
+}, {
+  "country": "Dominican Republic",
+  "city": "Santo Domingo de Guzm",
+  "population": 10766998,
+  "density": 215.31,
+  "continent": "North America",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Peso"
+  },
+  "area": 48511,
+  "expectancy": 73.2
+}, {
+  "country": "East Timor",
+  "city": "Dili",
+  "population": 1296311,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": "USD",
+    "name": null
+  },
+  "area": 14874,
+  "expectancy": 46
+}, {
+  "country": "Ecuador",
+  "city": "Quito",
+  "population": 16624858,
+  "density": 63.37,
+  "continent": "South America",
+  "currency": {
+    "code": "ECS",
+    "name": "Ecuador Sucre"
+  },
+  "area": 283561,
+  "expectancy": 71.1
+}, {
+  "country": "Egypt",
+  "city": "Cairo",
+  "population": 97553151,
+  "density": 0,
+  "continent": "Africa",
+  "currency": {
+    "code": "EGP",
+    "name": "Egyptian Pound"
+  },
+  "area": 1001449,
+  "expectancy": 63.3
+}, {
+  "country": "El Salvador",
+  "city": "San Salvador",
+  "population": 6377853,
+  "density": 306.01,
+  "continent": "North America",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  },
+  "area": 21041,
+  "expectancy": 69.7
+}, {
+  "country": "England",
+  "city": "London",
+  "population": 0,
+  "density": 0,
+  "continent": "Europe",
+  "currency": {
+    "code": "GBP",
+    "name": null
+  },
+  "area": null,
+  "expectancy": 0
+}, {
+  "country": "Equatorial Guinea",
+  "city": "Malabo",
+  "population": 1267689,
+  "density": 26.99,
+  "continent": "Africa",
+  "currency": {
+    "code": "XAF",
+    "name": "CFA Franc BEAC"
+  },
+  "area": 28051,
+  "expectancy": 53.6
+}, {
+  "country": "Eritrea",
+  "city": "Asmara",
+  "population": 5068831,
+  "density": 62.7,
+  "continent": "Africa",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrean Nakfa"
+  },
+  "area": 117600,
+  "expectancy": 55.8
+}, {
+  "country": "Estonia",
+  "city": "Tallinn",
+  "population": 1309632,
+  "density": 31.25,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 45227,
+  "expectancy": 69.5
+}, {
+  "country": "Ethiopia",
+  "city": "Addis Abeba",
+  "population": 104957438,
+  "density": 94.1,
+  "continent": "Africa",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopian Birr"
+  },
+  "area": 1104300,
+  "expectancy": 45.2
+}, {
+  "country": "Falkland Islands",
+  "city": "Stanley",
+  "population": 2910,
+  "density": 0,
+  "continent": "South America",
+  "currency": {
+    "code": "FKP",
+    "name": null
+  },
+  "area": 12173,
+  "expectancy": 0
+}, {
+  "country": "Faroe Islands",
+  "city": "Tórshavn",
+  "population": 49290,
+  "density": 0,
+  "continent": "Europe",
+  "currency": {
+    "code": "DKK",
+    "name": " Danish Krone"
+  },
+  "area": 1399,
+  "expectancy": 78.4
+}, {
+  "country": "Fiji Islands",
+  "city": "Suva",
+  "population": 905502,
+  "density": 0,
+  "continent": "Oceania",
+  "currency": {
+    "code": "FJD",
+    "name": null
+  },
+  "area": 18274,
+  "expectancy": 67.9
+}, {
+  "country": "Finland",
+  "city": "Helsinki [Helsingfors]",
+  "population": 5523231,
+  "density": 17.9,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 338145,
+  "expectancy": 77.4
+}, {
+  "country": "France",
+  "city": "Paris",
+  "population": 64979548,
+  "density": 120.59,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 551500,
+  "expectancy": 78.8
+}, {
+  "country": "French Guiana",
+  "city": "Cayenne",
+  "population": 282731,
+  "density": 0,
+  "continent": "South America",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 90000,
+  "expectancy": 76.1
+}, {
+  "country": "French Polynesia",
+  "city": "Papeete",
+  "population": 283007,
+  "density": 75.64,
+  "continent": "Oceania",
+  "currency": {
+    "code": "XPF",
+    "name": null
+  },
+  "area": 4000,
+  "expectancy": 74.8
+}, {
+  "country": "French Southern territories",
+  "city": null,
+  "population": 0,
+  "density": 0,
+  "continent": "Antarctica",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 7780,
+  "expectancy": 0
+}, {
+  "country": "Gabon",
+  "city": "Libreville",
+  "population": 2025137,
+  "density": 6.49,
+  "continent": "Africa",
+  "currency": {
+    "code": "XAF",
+    "name": "CFA Franc BEAC"
+  },
+  "area": 267668,
+  "expectancy": 50.1
+}, {
+  "country": "Gambia",
+  "city": "Banjul",
+  "population": 2100568,
+  "density": 0,
+  "continent": "Africa",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambian Dalasi"
+  },
+  "area": 11295,
+  "expectancy": 53.2
+}, {
+  "country": "Georgia",
+  "city": "Tbilisi",
+  "population": 3912061,
+  "density": 78.32,
+  "continent": "Asia",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgian Lari"
+  },
+  "area": 69700,
+  "expectancy": 64.5
+}, {
+  "country": "Germany",
+  "city": "Berlin",
+  "population": 82114224,
+  "density": 231.31,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 357022,
+  "expectancy": 77.4
+}, {
+  "country": "Ghana",
+  "city": "Accra",
+  "population": 28833629,
+  "density": 113.85,
+  "continent": "Africa",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghanaian Cedi"
+  },
+  "area": 238533,
+  "expectancy": 57.4
+}, {
+  "country": "Gibraltar",
+  "city": "Gibraltar",
+  "population": 34571,
+  "density": 0,
+  "continent": "Europe",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  },
+  "area": 6,
+  "expectancy": 79
+}, {
+  "country": "Greece",
+  "city": "Athenai",
+  "population": 11159773,
+  "density": 85.59,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 131626,
+  "expectancy": 78.4
+}, {
+  "country": "Greenland",
+  "city": "Nuuk",
+  "population": 56480,
+  "density": 0.14,
+  "continent": "North America",
+  "currency": {
+    "code": "DKK",
+    "name": "Danish Krone"
+  },
+  "area": 2166090,
+  "expectancy": 68.1
+}, {
+  "country": "Grenada",
+  "city": "Saint George's",
+  "population": 107825,
+  "density": 311.46,
+  "continent": "North America",
+  "currency": {
+    "code": "XCD",
+    "name": "East Carribean Dollar"
+  },
+  "area": 344,
+  "expectancy": 64.5
+}, {
+  "country": "Guadeloupe",
+  "city": "Basse-Terre",
+  "population": 449568,
+  "density": 0,
+  "continent": "North America",
+  "currency": {
+    "code": "EUR",
+    "name": null
+  },
+  "area": 1705,
+  "expectancy": 77
+}, {
+  "country": "Guam",
+  "city": "Aga",
+  "population": 164229,
+  "density": 305.79,
+  "continent": "Oceania",
+  "currency": {
+    "code": "USD",
+    "name": null
+  },
+  "area": 549,
+  "expectancy": 77.8
+}, {
+  "country": "Guatemala",
+  "city": "Ciudad de Guatemala",
+  "population": 16913503,
+  "density": 144.35,
+  "continent": "North America",
+  "currency": {
+    "code": "QTQ",
+    "name": "Guatemalan Quetzal"
+  },
+  "area": 108889,
+  "expectancy": 66.2
+}, {
+  "country": "Guinea",
+  "city": "Conakry",
+  "population": 12717176,
+  "density": 47.8,
+  "continent": "Africa",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  },
+  "area": 245857,
+  "expectancy": 45.6
+}, {
+  "country": "Guinea-Bissau",
+  "city": "Bissau",
+  "population": 1861283,
+  "density": 60.61,
+  "continent": "Africa",
+  "currency": {
+    "code": "CFA",
+    "name": null
+  },
+  "area": 36125,
+  "expectancy": 49
+}, {
+  "country": "Guyana",
+  "city": "Georgetown",
+  "population": 777859,
+  "density": 4.06,
+  "continent": "South America",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  },
+  "area": 214969,
+  "expectancy": 64
+}, {
+  "country": "Haiti",
+  "city": "Port-au-Prince",
+  "population": 10981229,
+  "density": 374.36,
+  "continent": "North America",
+  "currency": {
+    "code": "HTG",
+    "name": "Haitian Gourde"
+  },
+  "area": 27750,
+  "expectancy": 49.2
+}, {
+  "country": "Heard Island and McDonald Islands",
+  "city": null,
+  "population": 0,
+  "density": 0,
+  "continent": "Antarctica",
+  "currency": {
+    "code": "AUD",
+    "name": "Australian Dollar"
+  },
+  "area": 359,
+  "expectancy": 0
+}, {
+  "country": "Holy See (Vatican City State)",
+  "city": "Citt",
+  "population": 1000,
+  "density": 0,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": null
+  },
+  "area": 0.4,
+  "expectancy": 0
+}, {
+  "country": "Honduras",
+  "city": "Tegucigalpa",
+  "population": 9265067,
+  "density": 72.37,
+  "continent": "North America",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduran Lempira"
+  },
+  "area": 112088,
+  "expectancy": 69.9
+}, {
+  "country": "Hong Kong",
+  "city": "Victoria",
+  "population": 7364883,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  },
+  "area": 1075,
+  "expectancy": 79.5
+}, {
+  "country": "Hungary",
+  "city": "Budapest",
+  "population": 9721559,
+  "density": 109.33,
+  "continent": "Europe",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungarian Forint"
+  },
+  "area": 93030,
+  "expectancy": 71.4
+}, {
+  "country": "Iceland",
+  "city": "Reykjav",
+  "population": 335025,
+  "density": 3.22,
+  "continent": "Europe",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  },
+  "area": 103000,
+  "expectancy": 79.4
+}, {
+  "country": "India",
+  "city": "New Delhi",
+  "population": 1339180127,
+  "density": 421.14,
+  "continent": "Asia",
+  "currency": {
+    "code": "INR",
+    "name": "Indian Rupee"
+  },
+  "area": 3287263,
+  "expectancy": 62.5
+}, {
+  "country": "Indonesia",
+  "city": "Jakarta",
+  "population": 263991379,
+  "density": 124,
+  "continent": "Asia",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesian Rupiah"
+  },
+  "area": 1904569,
+  "expectancy": 70.1
+}, {
+  "country": "Iran",
+  "city": "Tehran",
+  "population": 81162788,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": "IRR",
+    "name": "Iranian Rial"
+  },
+  "area": 1648195,
+  "expectancy": 69.7
+}, {
+  "country": "Iraq",
+  "city": "Baghdad",
+  "population": 38274618,
+  "density": 76.94,
+  "continent": "Asia",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraqi Dinar"
+  },
+  "area": 438317,
+  "expectancy": 66.5
+}, {
+  "country": "Ireland",
+  "city": "Dublin",
+  "population": 4761657,
+  "density": 66.7,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 70273,
+  "expectancy": 76.8
+}, {
+  "country": "Israel",
+  "city": "Jerusalem",
+  "population": 8321570,
+  "density": 372.43,
+  "continent": "Asia",
+  "currency": {
+    "code": "ILS",
+    "name": "Israeli New Shekel"
+  },
+  "area": 21056,
+  "expectancy": 78.6
+}, {
+  "country": "Italy",
+  "city": "Roma",
+  "population": 59359900,
+  "density": 203.41,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 301316,
+  "expectancy": 79
+}, {
+  "country": "Ivory Coast",
+  "city": "Yamoussoukro",
+  "population": 24294750,
+  "density": 63.89,
+  "continent": "Africa",
+  "currency": {
+    "code": "XOF",
+    "name": "CFA Franc BCEAO"
+  },
+  "area": 322463,
+  "expectancy": 45.2
+}, {
+  "country": "Jamaica",
+  "city": "Kingston",
+  "population": 2890299,
+  "density": 250.69,
+  "continent": "North America",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaican Dollar"
+  },
+  "area": 10990,
+  "expectancy": 75.2
+}, {
+  "country": "Japan",
+  "city": "Tokyo",
+  "population": 127484450,
+  "density": 349.29,
+  "continent": "Asia",
+  "currency": {
+    "code": "JPY",
+    "name": "Japanese Yen"
+  },
+  "area": 377829,
+  "expectancy": 80.7
+}, {
+  "country": "Jordan",
+  "city": "Amman",
+  "population": 9702353,
+  "density": 72.75,
+  "continent": "Asia",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordanian Dinar"
+  },
+  "area": 88946,
+  "expectancy": 77.4
+}, {
+  "country": "Kazakhstan",
+  "city": "Astana",
+  "population": 18204499,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": "KZT",
+    "name": null
+  },
+  "area": 2724900,
+  "expectancy": 63.2
+}, {
+  "country": "Kenya",
+  "city": "Nairobi",
+  "population": 49699862,
+  "density": 77.93,
+  "continent": "Africa",
+  "currency": {
+    "code": "KES",
+    "name": "Kenyan Shilling"
+  },
+  "area": 580367,
+  "expectancy": 48
+}, {
+  "country": "Kiribati",
+  "city": "Bairiki",
+  "population": 116398,
+  "density": 126.36,
+  "continent": "Oceania",
+  "currency": {
+    "code": "AUD",
+    "name": "Australian Dollar"
+  },
+  "area": 726,
+  "expectancy": 59.8
+}, {
+  "country": "Kuwait",
+  "city": "Kuwait",
+  "population": 4136528,
+  "density": 189.03,
+  "continent": "Asia",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwaiti Dinar"
+  },
+  "area": 17818,
+  "expectancy": 76.1
+}, {
+  "country": "Kyrgyzstan",
+  "city": "Bishkek",
+  "population": 6045117,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": "KGS",
+    "name": "Som"
+  },
+  "area": 199900,
+  "expectancy": 63.4
+}, {
+  "country": "Laos",
+  "city": "Vientiane",
+  "population": 6858160,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": "LAK",
+    "name": "Lao Kip"
+  },
+  "area": 236800,
+  "expectancy": 53.1
+}, {
+  "country": "Latvia",
+  "city": "Riga",
+  "population": 1949670,
+  "density": 32.38,
+  "continent": "Europe",
+  "currency": {
+    "code": "LVL",
+    "name": "Latvian Lats"
+  },
+  "area": 64589,
+  "expectancy": 68.4
+}, {
+  "country": "Lebanon",
+  "city": "Beirut",
+  "population": 6082357,
+  "density": 436.7,
+  "continent": "Asia",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanese Pound"
+  },
+  "area": 10400,
+  "expectancy": 71.3
+}, {
+  "country": "Lesotho",
+  "city": "Maseru",
+  "population": 2233339,
+  "density": 68.33,
+  "continent": "Africa",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  },
+  "area": 30355,
+  "expectancy": 50.8
+}, {
+  "country": "Liberia",
+  "city": "Monrovia",
+  "population": 4731906,
+  "density": 44.58,
+  "continent": "Africa",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberian Dollar"
+  },
+  "area": 111369,
+  "expectancy": 51
+}, {
+  "country": "Libyan Arab Jamahiriya",
+  "city": "Tripoli",
+  "population": 5605000,
+  "density": 0,
+  "continent": "Africa",
+  "currency": {
+    "code": "LYD",
+    "name": null
+  },
+  "area": 1759540,
+  "expectancy": 75.5
+}, {
+  "country": "Liechtenstein",
+  "city": "Vaduz",
+  "population": 37922,
+  "density": 230.78,
+  "continent": "Europe",
+  "currency": {
+    "code": "CHF",
+    "name": "Swiss Franc"
+  },
+  "area": 160,
+  "expectancy": 78.8
+}, {
+  "country": "Lithuania",
+  "city": "Vilnius",
+  "population": 2890297,
+  "density": 47.17,
+  "continent": "Europe",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuanian Litas"
+  },
+  "area": 65301,
+  "expectancy": 69.1
+}, {
+  "country": "Luxembourg",
+  "city": "Luxembourg [Luxemburg/L",
+  "population": 583455,
+  "density": 209.73,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 2586,
+  "expectancy": 77.1
+}, {
+  "country": "Macao",
+  "city": "Macao",
+  "population": 473000,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": "MOP",
+    "name": null
+  },
+  "area": 18,
+  "expectancy": 81.6
+}, {
+  "country": "North Macedonia",
+  "city": "Skopje",
+  "population": 2024000,
+  "density": 0,
+  "continent": "Europe",
+  "currency": {
+    "code": "MKD",
+    "name": "Denar"
+  },
+  "area": 25713,
+  "expectancy": 73.8
+}, {
+  "country": "Madagascar",
+  "city": "Antananarivo",
+  "population": 25570895,
+  "density": 39.4,
+  "continent": "Africa",
+  "currency": {
+    "code": "MGF",
+    "name": "Malagasy Franc"
+  },
+  "area": 587041,
+  "expectancy": 55
+}, {
+  "country": "Malawi",
+  "city": "Lilongwe",
+  "population": 18622104,
+  "density": 173.55,
+  "continent": "Africa",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  },
+  "area": 118484,
+  "expectancy": 37.6
+}, {
+  "country": "Malaysia",
+  "city": "Kuala Lumpur",
+  "population": 31624264,
+  "density": 90.45,
+  "continent": "Asia",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysian Ringgit"
+  },
+  "area": 329758,
+  "expectancy": 70.8
+}, {
+  "country": "Maldives",
+  "city": "Male",
+  "population": 436330,
+  "density": 1,
+  "continent": "Asia",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldive Rufiyaa"
+  },
+  "area": 298,
+  "expectancy": 62.2
+}, {
+  "country": "Mali",
+  "city": "Bamako",
+  "population": 18541980,
+  "density": 12.54,
+  "continent": "Africa",
+  "currency": {
+    "code": "XOF",
+    "name": "CFA Franc BCEAO"
+  },
+  "area": 1240192,
+  "expectancy": 46.7
+}, {
+  "country": "Malta",
+  "city": "Valletta",
+  "population": 430835,
+  "density": 1,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 316,
+  "expectancy": 77.9
+}, {
+  "country": "Marshall Islands",
+  "city": "Dalap-Uliga-Darrit",
+  "population": 53127,
+  "density": 292.41,
+  "continent": "Oceania",
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar"
+  },
+  "area": 181,
+  "expectancy": 65.5
+}, {
+  "country": "Martinique",
+  "city": "Fort-de-France",
+  "population": 384896,
+  "density": 0,
+  "continent": "North America",
+  "currency": {
+    "code": "EUR",
+    "name": null
+  },
+  "area": 1102,
+  "expectancy": 78.3
+}, {
+  "country": "Mauritania",
+  "city": "Nouakchott",
+  "population": 4420184,
+  "density": 3.77,
+  "continent": "Africa",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritanian Ouguiya"
+  },
+  "area": 1025520,
+  "expectancy": 50.8
+}, {
+  "country": "Mauritius",
+  "city": "Port-Louis",
+  "population": 1265138,
+  "density": 638.57,
+  "continent": "Africa",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  },
+  "area": 2040,
+  "expectancy": 71
+}, {
+  "country": "Mayotte",
+  "city": "Mamoutzou",
+  "population": 253045,
+  "density": 0,
+  "continent": "Africa",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 373,
+  "expectancy": 59.5
+}, {
+  "country": "Mexico",
+  "city": "Ciudad de M",
+  "population": 129163276,
+  "density": 62.93,
+  "continent": "North America",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexican Nuevo Peso"
+  },
+  "area": 1958201,
+  "expectancy": 71.5
+}, {
+  "country": "Micronesia, Federated States of",
+  "city": "Palikir",
+  "population": 0,
+  "density": 0,
+  "continent": "Oceania",
+  "currency": {
+    "code": "USD",
+    "name": null
+  },
+  "area": null,
+  "expectancy": 0
+}, {
+  "country": "Moldova",
+  "city": "Chisinau",
+  "population": 4051212,
+  "density": 124.02,
+  "continent": "Europe",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldovan Leu"
+  },
+  "area": 33851,
+  "expectancy": 64.5
+}, {
+  "country": "Monaco",
+  "city": "Monaco-Ville",
+  "population": 38695,
+  "density": 18,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": null
+  },
+  "area": 1.5,
+  "expectancy": 78.8
+}, {
+  "country": "Mongolia",
+  "city": "Ulan Bator",
+  "population": 3075647,
+  "density": 1.83,
+  "continent": "Asia",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolian Tugrik"
+  },
+  "area": 1566500,
+  "expectancy": 67.3
+}, {
+  "country": "Montenegro",
+  "city": "Podgorica",
+  "population": 631219,
+  "density": 0,
+  "continent": "Europe",
+  "currency": {
+    "code": null,
+    "name": null
+  },
+  "area": 13812,
+  "expectancy": 0
+}, {
+  "country": "Montserrat",
+  "city": "Plymouth",
+  "population": 5177,
+  "density": 0,
+  "continent": "North America",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  },
+  "area": 102,
+  "expectancy": 78
+}, {
+  "country": "Morocco",
+  "city": "Rabat",
+  "population": 35739580,
+  "density": 73.96,
+  "continent": "Africa",
+  "currency": {
+    "code": "MAD",
+    "name": "Moroccan Dirham"
+  },
+  "area": 446550,
+  "expectancy": 69.1
+}, {
+  "country": "Mozambique",
+  "city": "Maputo",
+  "population": 29668834,
+  "density": 32.85,
+  "continent": "Africa",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  },
+  "area": 801590,
+  "expectancy": 37.5
+}, {
+  "country": "Myanmar",
+  "city": "Rangoon (Yangon)",
+  "population": 53370609,
+  "density": 81.52,
+  "continent": "Asia",
+  "currency": {
+    "code": "MMR",
+    "name": "Myanmar Kyat"
+  },
+  "area": 676578,
+  "expectancy": 54.9
+}, {
+  "country": "Namibia",
+  "city": "Windhoek",
+  "population": 2533794,
+  "density": 2.8,
+  "continent": "Africa",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibian Dollar"
+  },
+  "area": 824292,
+  "expectancy": 42.5
+}, {
+  "country": "Nauru",
+  "city": "Yaren",
+  "population": 11359,
+  "density": 0,
+  "continent": "Oceania",
+  "currency": {
+    "code": "AUD",
+    "name": "Australian Dollar"
+  },
+  "area": 21,
+  "expectancy": 60.8
+}, {
+  "country": "Nepal",
+  "city": "Kathmandu",
+  "population": 29304998,
+  "density": 193.91,
+  "continent": "Asia",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepalese Rupee"
+  },
+  "area": 147181,
+  "expectancy": 57.8
+}, {
+  "country": "Netherlands",
+  "city": "Amsterdam",
+  "population": 17035938,
+  "density": 498.35,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 41526,
+  "expectancy": 78.3
+}, {
+  "country": "Netherlands Antilles",
+  "city": "Willemstad",
+  "population": 217000,
+  "density": 0,
+  "continent": "North America",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antillean Guilder"
+  },
+  "area": 800,
+  "expectancy": 74.7
+}, {
+  "country": "New Caledonia",
+  "city": "Noum",
+  "population": 276255,
+  "density": 14.33,
+  "continent": "Oceania",
+  "currency": {
+    "code": "XPF",
+    "name": null
+  },
+  "area": 18575,
+  "expectancy": 72.8
+}, {
+  "country": "New Zealand",
+  "city": "Wellington",
+  "population": 4705818,
+  "density": 16.98,
+  "continent": "Oceania",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  },
+  "area": 270534,
+  "expectancy": 77.8
+}, {
+  "country": "Nicaragua",
+  "city": "Managua",
+  "population": 6217581,
+  "density": 50.53,
+  "continent": "North America",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaraguan Cordoba Oro"
+  },
+  "area": 130000,
+  "expectancy": 68.7
+}, {
+  "country": "Niger",
+  "city": "Niamey",
+  "population": 21477348,
+  "density": 14.08,
+  "continent": "Africa",
+  "currency": {
+    "code": "XOF",
+    "name": "CFA Franc BCEAO"
+  },
+  "area": 1267000,
+  "expectancy": 41.3
+}, {
+  "country": "Nigeria",
+  "city": "Abuja",
+  "population": 190886311,
+  "density": 190.62,
+  "continent": "Africa",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigerian Naira"
+  },
+  "area": 923768,
+  "expectancy": 51.6
+}, {
+  "country": "Niue",
+  "city": "Alofi",
+  "population": 1618,
+  "density": 0,
+  "continent": "Oceania",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  },
+  "area": 260,
+  "expectancy": 0
+}, {
+  "country": "Norfolk Island",
+  "city": "Kingston",
+  "population": 2000,
+  "density": 0,
+  "continent": "Oceania",
+  "currency": {
+    "code": "AUD",
+    "name": "Australian Dollar"
+  },
+  "area": 36,
+  "expectancy": 0
+}, {
+  "country": "North Korea",
+  "city": "Pyongyang",
+  "population": 25490965,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": "KPW",
+    "name": "North Korean Won"
+  },
+  "area": 120538,
+  "expectancy": 70.7
+}, {
+  "country": "Northern Ireland",
+  "city": "Belfast",
+  "population": 0,
+  "density": 0,
+  "continent": "Europe",
+  "currency": {
+    "code": "GBP",
+    "name": null
+  },
+  "area": null,
+  "expectancy": 0
+}, {
+  "country": "Northern Mariana Islands",
+  "city": "Garapan",
+  "population": 55144,
+  "density": 117.08,
+  "continent": "Oceania",
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar"
+  },
+  "area": 464,
+  "expectancy": 75.5
+}, {
+  "country": "Norway",
+  "city": "Oslo",
+  "population": 5305383,
+  "density": 13.92,
+  "continent": "Europe",
+  "currency": {
+    "code": "NOK",
+    "name": "Norwegian Krone"
+  },
+  "area": 323877,
+  "expectancy": 78.7
+}, {
+  "country": "Oman",
+  "city": "Masqat",
+  "population": 4636262,
+  "density": 11.74,
+  "continent": "Asia",
+  "currency": {
+    "code": "OMR",
+    "name": "Omani Rial"
+  },
+  "area": 309500,
+  "expectancy": 71.8
+}, {
+  "country": "Pakistan",
+  "city": "Islamabad",
+  "population": 197015955,
+  "density": 236.28,
+  "continent": "Asia",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  },
+  "area": 796095,
+  "expectancy": 61.1
+}, {
+  "country": "Palau",
+  "city": "Koror",
+  "population": 21729,
+  "density": 45.47,
+  "continent": "Oceania",
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar"
+  },
+  "area": 459,
+  "expectancy": 68.6
+}, {
+  "country": "Palestine",
+  "city": "Gaza",
+  "population": 4920724,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": null,
+    "name": null
+  },
+  "area": 6257,
+  "expectancy": 71.4
+}, {
+  "country": "Panama",
+  "city": "Ciudad de Panam",
+  "population": 4098587,
+  "density": 51.98,
+  "continent": "North America",
+  "currency": {
+    "code": "PAB",
+    "name": "Panamanian Balboa"
+  },
+  "area": 75517,
+  "expectancy": 75.5
+}, {
+  "country": "Papua New Guinea",
+  "city": "Port Moresby",
+  "population": 8251162,
+  "density": 16.17,
+  "continent": "Oceania",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  },
+  "area": 462840,
+  "expectancy": 63.1
+}, {
+  "country": "Paraguay",
+  "city": "Asunci",
+  "population": 6811297,
+  "density": 17.12,
+  "continent": "South America",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  },
+  "area": 406752,
+  "expectancy": 73.7
+}, {
+  "country": "Peru",
+  "city": "Lima",
+  "population": 32165485,
+  "density": 23.73,
+  "continent": "South America",
+  "currency": {
+    "code": "PEN",
+    "name": "Peruvian Nuevo Sol"
+  },
+  "area": 1285216,
+  "expectancy": 70
+}, {
+  "country": "Philippines",
+  "city": "Manila",
+  "population": 104918090,
+  "density": 329.99,
+  "continent": "Asia",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippine Peso"
+  },
+  "area": 300000,
+  "expectancy": 67.5
+}, {
+  "country": "Pitcairn",
+  "city": "Adamstown",
+  "population": 50,
+  "density": 0,
+  "continent": "Oceania",
+  "currency": {
+    "code": "NZD",
+    "name": null
+  },
+  "area": 49,
+  "expectancy": 0
+}, {
+  "country": "Poland",
+  "city": "Warszawa",
+  "population": 38170712,
+  "density": 125.83,
+  "continent": "Europe",
+  "currency": {
+    "code": "PLN",
+    "name": "Polish Zloty"
+  },
+  "area": 323250,
+  "expectancy": 73.2
+}, {
+  "country": "Portugal",
+  "city": "Lisboa",
+  "population": 10329506,
+  "density": 114.2,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 91982,
+  "expectancy": 75.8
+}, {
+  "country": "Puerto Rico",
+  "city": "San Juan",
+  "population": 3663131,
+  "density": 407.56,
+  "continent": "North America",
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar"
+  },
+  "area": 8875,
+  "expectancy": 75.6
+}, {
+  "country": "Qatar",
+  "city": "Doha",
+  "population": 2639211,
+  "density": 186.79,
+  "continent": "Asia",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatari Rial"
+  },
+  "area": 11000,
+  "expectancy": 72.4
+}, {
+  "country": "Reunion",
+  "city": "Saint-Denis",
+  "population": 699000,
+  "density": 0,
+  "continent": "Africa",
+  "currency": {
+    "code": "EUR",
+    "name": null
+  },
+  "area": 2510,
+  "expectancy": 72.7
+}, {
+  "country": "Romania",
+  "city": "Bucuresti",
+  "population": 19679306,
+  "density": 86.79,
+  "continent": "Europe",
+  "currency": {
+    "code": "RON",
+    "name": "Romanian New Leu"
+  },
+  "area": 238391,
+  "expectancy": 69.9
+}, {
+  "country": "Russian Federation",
+  "city": "Moscow",
+  "population": 143989754,
+  "density": 8.76,
+  "continent": "Europe",
+  "currency": {
+    "code": "RUB",
+    "name": null
+  },
+  "area": 17075400,
+  "expectancy": 67.2
+}, {
+  "country": "Rwanda",
+  "city": "Kigali",
+  "population": 12208407,
+  "density": 477.36,
+  "continent": "Africa",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  },
+  "area": 26338,
+  "expectancy": 39.3
+}, {
+  "country": "Saint Helena",
+  "city": "Jamestown",
+  "population": 4049,
+  "density": 0,
+  "continent": "Africa",
+  "currency": {
+    "code": "SHP",
+    "name": "St. Helena Pound"
+  },
+  "area": 314,
+  "expectancy": 76.8
+}, {
+  "country": "Saint Kitts and Nevis",
+  "city": "Basseterre",
+  "population": 55345,
+  "density": 0,
+  "continent": "North America",
+  "currency": {
+    "code": "XCD",
+    "name": null
+  },
+  "area": 261,
+  "expectancy": 70.7
+}, {
+  "country": "Saint Lucia",
+  "city": "Castries",
+  "population": 178844,
+  "density": 0,
+  "continent": "North America",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  },
+  "area": 622,
+  "expectancy": 72.3
+}, {
+  "country": "Saint Pierre and Miquelon",
+  "city": "Saint-Pierre",
+  "population": 6320,
+  "density": 0,
+  "continent": "North America",
+  "currency": {
+    "code": "EUR",
+    "name": " Euro"
+  },
+  "area": 242,
+  "expectancy": 77.6
+}, {
+  "country": "Saint Vincent and the Grenadines",
+  "city": "Kingstown",
+  "population": 109897,
+  "density": 0,
+  "continent": "North America",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  },
+  "area": 388,
+  "expectancy": 72.3
+}, {
+  "country": "Samoa",
+  "city": "Apia",
+  "population": 196440,
+  "density": 67.27,
+  "continent": "Oceania",
+  "currency": {
+    "code": "WST",
+    "name": "Samoan Tala"
+  },
+  "area": 2831,
+  "expectancy": 69.2
+}, {
+  "country": "San Marino",
+  "city": "San Marino",
+  "population": 33400,
+  "density": 524.13,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 61,
+  "expectancy": 81.1
+}, {
+  "country": "Sao Tome and Principe",
+  "city": "S",
+  "population": 204327,
+  "density": 201.03,
+  "continent": "Africa",
+  "currency": {
+    "code": "STD",
+    "name": " Dobra"
+  },
+  "area": 964,
+  "expectancy": 65.3
+}, {
+  "country": "Saudi Arabia",
+  "city": "Riyadh",
+  "population": 32938213,
+  "density": 13.41,
+  "continent": "Asia",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Riyal"
+  },
+  "area": 2149690,
+  "expectancy": 67.8
+}, {
+  "country": "Scotland",
+  "city": "Edinburgh",
+  "population": 0,
+  "density": 0,
+  "continent": "Europe",
+  "currency": {
+    "code": "GBP",
+    "name": null
+  },
+  "area": null,
+  "expectancy": 0
+}, {
+  "country": "Senegal",
+  "city": "Dakar",
+  "population": 15850567,
+  "density": 73.41,
+  "continent": "Africa",
+  "currency": {
+    "code": "XOF",
+    "name": "CFA Franc BCEAO"
+  },
+  "area": 196722,
+  "expectancy": 62.2
+}, {
+  "country": "Seychelles",
+  "city": "Victoria",
+  "population": 94737,
+  "density": 193.85,
+  "continent": "Africa",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  },
+  "area": 455,
+  "expectancy": 70.4
+}, {
+  "country": "Sierra Leone",
+  "city": "Freetown",
+  "population": 7557212,
+  "density": 84.4,
+  "continent": "Africa",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  },
+  "area": 71740,
+  "expectancy": 45.3
+}, {
+  "country": "Singapore",
+  "city": "Singapore",
+  "population": 5708844,
+  "density": 7,
+  "continent": "Asia",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  },
+  "area": 618,
+  "expectancy": 80.1
+}, {
+  "country": "Slovakia",
+  "city": "Bratislava",
+  "population": 5447662,
+  "density": 0,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 49012,
+  "expectancy": 73.7
+}, {
+  "country": "Slovenia",
+  "city": "Ljubljana",
+  "population": 2079976,
+  "density": 102.31,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 20256,
+  "expectancy": 74.9
+}, {
+  "country": "Solomon Islands",
+  "city": "Honiara",
+  "population": 611343,
+  "density": 20.05,
+  "continent": "Oceania",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  },
+  "area": 28896,
+  "expectancy": 71.3
+}, {
+  "country": "Somalia",
+  "city": "Mogadishu",
+  "population": 14742523,
+  "density": 16.73,
+  "continent": "Africa",
+  "currency": {
+    "code": "SOS",
+    "name": "Somali Shilling"
+  },
+  "area": 637657,
+  "expectancy": 46.2
+}, {
+  "country": "South Africa",
+  "city": "Pretoria",
+  "population": 56717156,
+  "density": 43.68,
+  "continent": "Africa",
+  "currency": {
+    "code": "ZAR",
+    "name": "South African Rand"
+  },
+  "area": 1221037,
+  "expectancy": 51.1
+}, {
+  "country": "South Georgia and the South Sandwich Islands",
+  "city": null,
+  "population": 0,
+  "density": 0,
+  "continent": "Antarctica",
+  "currency": {
+    "code": "GBP",
+    "name": "Pound Sterling"
+  },
+  "area": 3903,
+  "expectancy": 0
+}, {
+  "country": "South Korea",
+  "city": "Seoul",
+  "population": 50982212,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": "KRW",
+    "name": "Korean Won"
+  },
+  "area": 99434,
+  "expectancy": 74.4
+}, {
+  "country": "South Sudan",
+  "city": "Juba",
+  "population": 12575714,
+  "density": 0,
+  "continent": "Africa",
+  "currency": {
+    "code": "SSP",
+    "name": "South Sudan Pound"
+  },
+  "area": 619745,
+  "expectancy": 0
+}, {
+  "country": "Spain",
+  "city": "Madrid",
+  "population": 46354321,
+  "density": 93.52,
+  "continent": "Europe",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  "area": 505992,
+  "expectancy": 78.8
+}, {
+  "country": "SriLanka",
+  "city": "Colombo",
+  "population": 20876917,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": "LKR",
+    "name": null
+  },
+  "area": null,
+  "expectancy": 0
+}, {
+  "country": "Sudan",
+  "city": "Khartum",
+  "population": 40533330,
+  "density": 20.73,
+  "continent": "Africa",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudanese Pound"
+  },
+  "area": 1886068,
+  "expectancy": 56.6
+}, {
+  "country": "Suriname",
+  "city": "Paramaribo",
+  "population": 563402,
+  "density": 3.46,
+  "continent": "South America",
+  "currency": {
+    "code": "SRD",
+    "name": "Surinam Dollar"
+  },
+  "area": 163265,
+  "expectancy": 71.4
+}, {
+  "country": "Svalbard and Jan Mayen",
+  "city": "Longyearbyen",
+  "population": 3200,
+  "density": 0,
+  "continent": "Europe",
+  "currency": {
+    "code": "NOK",
+    "name": null
+  },
+  "area": 62422,
+  "expectancy": 0
+}, {
+  "country": "Swaziland",
+  "city": "Mbabane",
+  "population": 1008000,
+  "density": 72.65,
+  "continent": "Africa",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  },
+  "area": 17364,
+  "expectancy": 40.4
+}, {
+  "country": "Sweden",
+  "city": "Stockholm",
+  "population": 9910701,
+  "density": 23.55,
+  "continent": "Europe",
+  "currency": {
+    "code": "SEK",
+    "name": "Swedish Krona"
+  },
+  "area": 449964,
+  "expectancy": 79.6
+}, {
+  "country": "Switzerland",
+  "city": "Bern",
+  "population": 8476005,
+  "density": 204.51,
+  "continent": "Europe",
+  "currency": {
+    "code": "CHF",
+    "name": "Swiss Franc"
+  },
+  "area": 41284,
+  "expectancy": 79.6
+}, {
+  "country": "Syria",
+  "city": "Damascus",
+  "population": 18269868,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": "SYP",
+    "name": "Syrian Pound"
+  },
+  "area": 185180,
+  "expectancy": 68.5
+}, {
+  "country": "Tajikistan",
+  "city": "Dushanbe",
+  "population": 8921343,
+  "density": 58.64,
+  "continent": "Asia",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajik Somoni"
+  },
+  "area": 143100,
+  "expectancy": 64.1
+}, {
+  "country": "Tanzania",
+  "city": "Dodoma",
+  "population": 57310019,
+  "density": 55.6,
+  "continent": "Africa",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzanian Shilling"
+  },
+  "area": 883749,
+  "expectancy": 52.3
+}, {
+  "country": "Thailand",
+  "city": "Bangkok",
+  "population": 69037513,
+  "density": 131.16,
+  "continent": "Asia",
+  "currency": {
+    "code": "THB",
+    "name": "Thai Baht"
+  },
+  "area": 513115,
+  "expectancy": 68.6
+}, {
+  "country": "The Democratic Republic of Congo",
+  "city": null,
+  "population": 0,
+  "density": 0,
+  "continent": "Africa",
+  "currency": {
+    "code": "CDF",
+    "name": null
+  },
+  "area": null,
+  "expectancy": 0
+}, {
+  "country": "Togo",
+  "city": "Lom",
+  "population": 7797694,
+  "density": 125.34,
+  "continent": "Africa",
+  "currency": {
+    "code": "XOF",
+    "name": "CFA Franc BCEAO"
+  },
+  "area": 56785,
+  "expectancy": 54.7
+}, {
+  "country": "Tokelau",
+  "city": "Fakaofo",
+  "population": 1300,
+  "density": 0,
+  "continent": "Oceania",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  },
+  "area": 12,
+  "expectancy": 0
+}, {
+  "country": "Tonga",
+  "city": "Nuku'alofa",
+  "population": 108020,
+  "density": 146.28,
+  "continent": "Oceania",
+  "currency": {
+    "code": "TOP",
+    "name": "Tongan Pa'anga"
+  },
+  "area": 650,
+  "expectancy": 67.9
+}, {
+  "country": "Trinidad and Tobago",
+  "city": "Port-of-Spain",
+  "population": 1369125,
+  "density": 261.43,
+  "continent": "North America",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  },
+  "area": 5130,
+  "expectancy": 68
+}, {
+  "country": "Tunisia",
+  "city": "Tunis",
+  "population": 11532127,
+  "density": 70.07,
+  "continent": "Africa",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisian Dollar"
+  },
+  "area": 163610,
+  "expectancy": 73.7
+}, {
+  "country": "Turkey",
+  "city": "Ankara",
+  "population": 80745020,
+  "density": 97.36,
+  "continent": "Asia",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkish Lira"
+  },
+  "area": 774815,
+  "expectancy": 71
+}, {
+  "country": "Turkmenistan",
+  "city": "Ashgabat",
+  "population": 5758075,
+  "density": 11.15,
+  "continent": "Asia",
+  "currency": {
+    "code": "TMT",
+    "name": "Manat"
+  },
+  "area": 488100,
+  "expectancy": 60.9
+}, {
+  "country": "Turks and Caicos Islands",
+  "city": "Cockburn Town",
+  "population": 35446,
+  "density": 34.84,
+  "continent": "North America",
+  "currency": {
+    "code": "USD",
+    "name": null
+  },
+  "area": 430,
+  "expectancy": 73.3
+}, {
+  "country": "Tuvalu",
+  "city": "Funafuti",
+  "population": 11192,
+  "density": 329.2,
+  "continent": "Oceania",
+  "currency": {
+    "code": "AUD",
+    "name": "Australian Dollar"
+  },
+  "area": 26,
+  "expectancy": 66.3
+}, {
+  "country": "Uganda",
+  "city": "Kampala",
+  "population": 42862958,
+  "density": 188.07,
+  "continent": "Africa",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  },
+  "area": 241038,
+  "expectancy": 42.9
+}, {
+  "country": "Ukraine",
+  "city": "Kyiv",
+  "population": 44222947,
+  "density": 78.52,
+  "continent": "Europe",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  },
+  "area": 603700,
+  "expectancy": 66
+}, {
+  "country": "United Arab Emirates",
+  "city": "Abu Dhabi",
+  "population": 9400145,
+  "density": 111.8,
+  "continent": "Asia",
+  "currency": {
+    "code": "AED",
+    "name": "Arab Emirates Dirham"
+  },
+  "area": 83600,
+  "expectancy": 74.1
+}, {
+  "country": "United Kingdom",
+  "city": "London",
+  "population": 66181585,
+  "density": 264.94,
+  "continent": "Europe",
+  "currency": {
+    "code": "GBP",
+    "name": null
+  },
+  "area": 242900,
+  "expectancy": 77.7
+}, {
+  "country": "United States",
+  "city": "Washington",
+  "population": 324459463,
+  "density": 34.56,
+  "continent": "North America",
+  "currency": {
+    "code": "USD",
+    "name": null
+  },
+  "area": 9363520,
+  "expectancy": 77.1
+}, {
+  "country": "United States Minor Outlying Islands",
+  "city": null,
+  "population": 0,
+  "density": 0,
+  "continent": "Oceania",
+  "currency": {
+    "code": "USD",
+    "name": null
+  },
+  "area": 16,
+  "expectancy": 0
+}, {
+  "country": "Uruguay",
+  "city": "Montevideo",
+  "population": 3456750,
+  "density": 19.47,
+  "continent": "South America",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguayan Peso"
+  },
+  "area": 175016,
+  "expectancy": 75.2
+}, {
+  "country": "Uzbekistan",
+  "city": "Toskent",
+  "population": 31910641,
+  "density": 71.09,
+  "continent": "Asia",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Sum"
+  },
+  "area": 447400,
+  "expectancy": 63.7
+}, {
+  "country": "Vanuatu",
+  "city": "Port-Vila",
+  "population": 276244,
+  "density": 20.74,
+  "continent": "Oceania",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  },
+  "area": 12189,
+  "expectancy": 60.6
+}, {
+  "country": "Venezuela",
+  "city": "Caracas",
+  "population": 31977065,
+  "density": 0,
+  "continent": "South America",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuelan Bolivar"
+  },
+  "area": 912050,
+  "expectancy": 73.1
+}, {
+  "country": "Vietnam",
+  "city": "Hanoi",
+  "population": 95540800,
+  "density": 289.32,
+  "continent": "Asia",
+  "currency": {
+    "code": "VND",
+    "name": "Vietnamese Dong"
+  },
+  "area": 331689,
+  "expectancy": 69.3
+}, {
+  "country": "Virgin Islands, British",
+  "city": "Road Town",
+  "population": 0,
+  "density": 0,
+  "continent": "North America",
+  "currency": {
+    "code": "USD",
+    "name": null
+  },
+  "area": null,
+  "expectancy": 0
+}, {
+  "country": "Virgin Islands, U.S.",
+  "city": "Charlotte Amalie",
+  "population": 0,
+  "density": 0,
+  "continent": "North America",
+  "currency": {
+    "code": "USD",
+    "name": null
+  },
+  "area": null,
+  "expectancy": 0
+}, {
+  "country": "Wales",
+  "city": "Cardiff",
+  "population": 0,
+  "density": 0,
+  "continent": "Europe",
+  "currency": {
+    "code": "GBP",
+    "name": null
+  },
+  "area": null,
+  "expectancy": 0
+}, {
+  "country": "Wallis and Futuna",
+  "city": "Mata-Utu",
+  "population": 11773,
+  "density": 0,
+  "continent": "Oceania",
+  "currency": {
+    "code": "XPF",
+    "name": null
+  },
+  "area": 200,
+  "expectancy": 0
+}, {
+  "country": "Western Sahara",
+  "city": "El-Aai",
+  "population": 552628,
+  "density": 0,
+  "continent": "Africa",
+  "currency": {
+    "code": "MAD",
+    "name": "Moroccan Dirham"
+  },
+  "area": 266000,
+  "expectancy": 49.8
+}, {
+  "country": "Yemen",
+  "city": "Sanaa",
+  "population": 28250420,
+  "density": 0,
+  "continent": "Asia",
+  "currency": {
+    "code": "YER",
+    "name": "Yemeni Rial"
+  },
+  "area": 527968,
+  "expectancy": 59.8
+}, {
+  "country": "Yugoslavia",
+  "city": "Beograd",
+  "population": 10640000,
+  "density": 0,
+  "continent": "Europe",
+  "currency": {
+    "code": null,
+    "name": null
+  },
+  "area": 102173,
+  "expectancy": 72.4
+}, {
+  "country": "Zambia",
+  "city": "Lusaka",
+  "population": 17094130,
+  "density": 19.56,
+  "continent": "Africa",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambian Kwacha"
+  },
+  "area": 752618,
+  "expectancy": 37.2
+}, {
+  "country": "Zimbabwe",
+  "city": "Harare",
+  "population": 16529904,
+  "density": 36.58,
+  "continent": "Africa",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  },
+  "area": 390757,
+  "expectancy": 37.8
+}]

@@ -1,0 +1,24 @@
+<div class="chart-header">
+  <div class="chart-filter" *ngIf="filterArray.length === 1">
+    <span>Population By :</span>
+    <app-dashboard-filter
+      [filterList]="['pet', 'fruit', 'eyeColor', 'gender']"
+      (filtering)="setChartFilterData($event)"
+      [filter]="filterArray[0]"
+    ></app-dashboard-filter>
+  </div>
+  <div class="chart-actions">
+    <mat-icon
+      svgIcon="column"
+      (click)="setChart('column')"
+      [class.selected]="chartType === 'column'"
+    ></mat-icon>
+    <mat-icon
+      svgIcon="pie"
+      (click)="setChart('pie')"
+      [class.selected]="chartType === 'pie'"
+    ></mat-icon>
+    <mat-icon svgIcon="map" (click)="showMap()"></mat-icon>
+  </div>
+</div>
+<div [ngClass]="['chart', filterArray[0] || '']" [chart]="chart"></div>

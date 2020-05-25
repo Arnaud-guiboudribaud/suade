@@ -1,0 +1,81 @@
+<ng-container *ngIf="data">
+  <div class="table">
+    <div class="table-line header">
+      <div class="table-cell name">
+        <span class="legend"><span class="growth">gender - </span>Filter by</span>
+        <app-dashboard-filter
+          [filterList]="data.filters.gender"
+          (filtering)="filterTableBy('gender', $event)"
+        ></app-dashboard-filter>
+      </div>
+      <div class="table-cell">
+        <span class="legend"><span class="growth">Eyes - </span>Filter by</span>
+        <app-dashboard-filter
+          [filterList]="data.filters.eyeColor"
+          (filtering)="filterTableBy('eyeColor', $event)"
+        ></app-dashboard-filter>
+      </div>
+      <div class="table-cell">
+        <span class="legend"><span class="growth">pet - </span>Filter by</span>
+        <app-dashboard-filter
+          [filterList]="data.filters.pet"
+          (filtering)="filterTableBy('pet', $event)"
+        ></app-dashboard-filter>
+      </div>
+      <div class="table-cell">
+        <span class="legend"><span class="growth">fruit - </span>Filter by</span>
+        <app-dashboard-filter
+          [filterList]="data.filters.fruit"
+          (filtering)="filterTableBy('fruit', $event)"
+        ></app-dashboard-filter>
+      </div>
+      <div class="table-cell location"></div>
+      <div class="table-cell actions"></div>
+    </div>
+    <div class="table-content">
+      <ng-container *ngFor="let p of data.origin">
+        <div
+          class="table-line"
+          [class.hide]="
+            (filter.fruit !== p.preferences.fruit && filter.fruit !== 'all') ||
+            (filter.eyeColor !== p.eyeColor && filter.eyeColor !== 'all') ||
+            (filter.pet !== p.preferences.pet && filter.pet !== 'all') ||
+            (filter.gender !== p.gender && filter.gender !== 'all')
+          "
+          [class.selected]="userToEdit && p._id === userToEdit._id"
+        >
+          <div class="table-cell name">
+            {{ p.name }} {{ filter.fruit }}
+            <span class="countries">{{ p.gender }} - {{ p.age }}</span>
+          </div>
+          <div class="table-cell">
+            <div [ngClass]="['table-cell-content eye', p.eyeColor]">
+              {{ p.eyeColor }}
+            </div>
+          </div>
+          <div class="table-cell">
+            <div [ngClass]="['table-cell-content pet', p.preferences.pet]">
+              {{ p.preferences.pet }}
+            </div>
+          </div>
+          <div class="table-cell">
+            <div [ngClass]="['table-cell-content fruit', p.preferences.fruit]">
+              {{ p.preferences.fruit }}
+            </div>
+          </div>
+          <div class="table-cell location">
+            <div class="table-cell-content location">
+              <span>{{ p.location.longitude }}<span class="legend"> LONG.</span></span>
+              <span>{{ p.location.latitude }}<span class="legend"> LAT.</span></span>
+            </div>
+          </div>
+          <div class="table-cell actions">
+            <div class="table-cell-content">
+              <mat-icon svgIcon="edit" (click)="editUser(p)"></mat-icon>
+            </div>
+          </div>
+        </div>
+      </ng-container>
+    </div>
+  </div>
+</ng-container>
