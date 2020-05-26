@@ -15,7 +15,7 @@ export class DashboardEditComponent implements OnChanges {
 
   filterList = {
     gender: ['male', 'female'],
-    eyeColor: ['bronw', 'blue', 'green'],
+    eyeColor: ['brown', 'blue', 'green'],
     pet: ['dog', 'cat', 'bird', 'none'],
     fruit: ['apple', 'strawberry', 'banana', 'mango'],
   };

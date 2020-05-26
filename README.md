@@ -2,9 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
-## Development server
+## Development and see on local server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Get folder elements.
+
+Go to root folder and get node_modules part : `npm install` on your IDE local console
+
+Once Run `ng serve -o` for a dev server this will automatically open the project on your default browser. You can also Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+You can change port value with adding `--port yourValue` to `ng serve` command line
 
 ## Code scaffolding
 
@@ -17,10 +23,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
